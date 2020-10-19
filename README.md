@@ -15,7 +15,7 @@ Currently a Programming student at Epicodus in Portland OR with a focus on C#. G
 <hr>
 
 - 🗺️ Lets talk about your favorite travel moments.
-- 📩 How to reach me: NatalieMurphy500@gmail.com### Hi there 👋
+- 📩 How to reach me: NatalieMurphy500@gmail.com
 
 <!--
 **murphynd/murphynd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
