@@ -4,7 +4,7 @@
 
 ## About Me
 
-Currently a Programming student at Epicodus in Portland OR with a focus on C#. Graduate of Appalachian State University with a degree in Public Relations. Excited to build a career in technology and grow with the ever-changing times. I am always on the hunt to find new opportunities for exploring the world. Big coffee nerd and part time ski instructor. 🎿
+Currently a Jr Developer working mainly in Java and Javascript after studying at Epicodus in Portland OR with a focus on C#. Ill be skiing at Timberline this winter if you want to join. Graduate of Appalachian State University with a degree in Public Relations. Excited to build a career in technology and grow with the ever-changing times. I am always on the hunt to find new opportunities for exploring the world. Big coffee nerd and part time ski instructor. 🎿
 
 
 
