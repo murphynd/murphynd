@@ -4,18 +4,17 @@
 
 ## About Me
 
-Currently a Developer working mainly in Java and Javascript on a business optizimation platform after studying at Epicodus in Portland OR with a focus on C#. Ill be skiing at Timberline this winter if you want to join. Graduate of Appalachian State University with a degree in Public Relations. Excited to build a career in technology and grow with the ever-changing times. I am always on the hunt to find new opportunities for exploring the world. Big coffee nerd and part time ski instructor. 🎿
+I am a developer working mainly in Java and Javascript on a business optimization platform after studying at Epicodus in Portland, OR, focusing on C#. I'll be skiing at Timberline this winter if you want to join. I graduated from Appalachian State University with a degree in Public Relations. Excited to build a career in technology and grow with the ever-changing times. I am always searching for new opportunities for exploring the world. I am a big coffee nerd and part-time ski instructor. 🎿
 
-## What I'm Working On
+## What I've done
 
-🔰 Completing a 27-week/800 hr developer bootcamp through [Epicodus](https://www.epicodus.com/).
+🔰 Completed a 27-week/800 hr developer bootcamp through [Epicodus](https://www.epicodus.com/).
 
-🔰 C#/.NET, React, and so much more.
+🔰 C#/.NET, Java, Javascript, and so much more.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=murphynd&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-<hr>
+🍸 Need a cocktail and a little time with your favorite gay bartender? Hang with Pascal, my buddy I made: [Pascal](https://chat.openai.com/g/g-r5Jbknxil-pascal). He makes great drinks.
 
-- 🗺️   Lets talk about your favorite travel moments.
+- 🗺️   Let's talk about your favorite travel moments.
 - 📩   How to reach me: NatalieMurphy500@gmail.com
 
 <!--
